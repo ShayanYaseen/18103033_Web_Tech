@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2705bf0c-283b-4af9-97b6-5ff3bad32007" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h0mGuTqlE3hJgXUNYe7Pibj60Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/External/jsoup-1.13.1.jar" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Application.DownloaderCrawlerScraper">
+    <configuration name="CrawlerScraper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CrawlerScraper" />
+      <module name="JavaJet" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Downloader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Downloader" />
+      <module name="JavaJet" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DownloaderCrawlerScraper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.DownloaderCrawlerScraper" />
+      <module name="JavaJet" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Focus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Focus" />
+      <module name="JavaJet" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FocusCrawlerScraper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.FocusCrawlerScraper" />
+      <module name="JavaJet" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DownloaderCrawlerScraper" />
+        <item itemvalue="Application.CrawlerScraper" />
+        <item itemvalue="Application.FocusCrawlerScraper" />
+        <item itemvalue="Application.Downloader" />
+        <item itemvalue="Application.Focus" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="WindowStateProjectService">
+    <state x="731" y="356" width="785" height="485" key="DetectedRootsChooserDialog" timestamp="1599991220826">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="731" y="356" width="785" height="485" key="DetectedRootsChooserDialog/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1599991220826" />
+    <state x="2413" y="234" key="FileChooserDialogImpl" timestamp="1600173398200">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="493" y="256" key="FileChooserDialogImpl/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1599991368627" />
+    <state x="2413" y="234" key="FileChooserDialogImpl/1920.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1600173398200" />
+    <state width="1885" height="327" key="GridCell.Tab.0.bottom" timestamp="1600173504532">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1885" height="474" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1600172542185" />
+    <state width="1885" height="327" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1600173504532" />
+    <state width="1885" height="327" key="GridCell.Tab.0.center" timestamp="1600173504532">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1885" height="474" key="GridCell.Tab.0.center/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1600172542185" />
+    <state width="1885" height="327" key="GridCell.Tab.0.center/1920.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1600173504532" />
+    <state width="1885" height="327" key="GridCell.Tab.0.left" timestamp="1600173504532">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1885" height="474" key="GridCell.Tab.0.left/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1600172542185" />
+    <state width="1885" height="327" key="GridCell.Tab.0.left/1920.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1600173504532" />
+    <state width="1885" height="327" key="GridCell.Tab.0.right" timestamp="1600173504532">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1885" height="474" key="GridCell.Tab.0.right/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1600172542185" />
+    <state width="1885" height="327" key="GridCell.Tab.0.right/1920.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1600173504532" />
+    <state width="1885" height="321" key="GridCell.Tab.1.bottom" timestamp="1600007534816">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1885" height="321" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1600007534816" />
+    <state width="1885" height="321" key="GridCell.Tab.1.center" timestamp="1600007534816">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1885" height="321" key="GridCell.Tab.1.center/1920.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1600007534816" />
+    <state width="1885" height="321" key="GridCell.Tab.1.left" timestamp="1600007534815">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1885" height="321" key="GridCell.Tab.1.left/1920.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1600007534815" />
+    <state width="1885" height="321" key="GridCell.Tab.1.right" timestamp="1600007534816">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1885" height="321" key="GridCell.Tab.1.right/1920.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1600007534816" />
+    <state x="2235" y="28" width="1350" height="1052" key="SettingsEditor" timestamp="1600173402805">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="26" width="1920" height="1054" key="SettingsEditor/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1599991389082" />
+    <state x="2235" y="28" width="1350" height="1052" key="SettingsEditor/1920.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1600173402805" />
+    <state x="2373" y="28" width="1009" height="1048" key="search.everywhere.popup" timestamp="1599993827503">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2373" y="28" width="1009" height="1048" key="search.everywhere.popup/1920.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1599993827503" />
+  </component>
+</project>
